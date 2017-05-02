@@ -11,27 +11,10 @@ Author URI: https://idzan.com.hr
 function hr_islands_skz_woo ($states) {
 
 	$states['SKŽ'] = array(
-							'BBŽ' => 'Bjelovarsko-bilogorska županija' ,
-							'BPŽ' => 'Brodsko-posavska županija' ,
-							'DNŽ' => 'Dubrovačko-neretvanska županija' ,
-							'IŽ' => 'Istarska županija' ,
-							'KŽ' => 'Karlovačka županija' ,
-							'KKŽ' => 'Koprivničko-križevačka županija' ,
-							'KZŽ' => 'Krapinsko-zagorska županija' ,
-							'LSŽ' => 'Ličko-senjska županija' ,
-							'MŽ' => 'Međimurska županija' ,
-							'OBŽ' => 'Osiječko-branjska županija' ,
-							'PSŽ' => 'Požeško-slavonska županija' ,
-							'PGŽ' => 'Primorsko-goranska županija' ,
-							'SMŽ' => 'Sisačko-moslavačka županija' ,
-							'SDŽ' => 'Splitsko-dalmatinska županija' ,
-							'VŽ' => 'Varaždinska županija' ,
-							'VPŽ' => 'Virovitičko-podravska županija' ,
-							'VSŽ' => 'Vukovarsko-srijemska županija' ,
-							'ZDŽ' => 'Zadarska županija' ,
-							'ZGŽ' => 'Zagrebačka županija' ,
-							'ŠKŽ' => 'Šibensko-kninska županija' ,
-							'GZG' => 'Grad Zagreb'
+							'KAPRIJE' => 'Kaprije' ,
+							'KRAPANJ' => 'Krapanj' ,
+							'MURTER' => 'Murter' ,
+							'KAPRIJE' => 'Kaprije' ,
 							);
 	return $states;
 }
